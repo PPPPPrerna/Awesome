@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55745" started-at="2020-08-01T16:43:54Z" finished-at="2020-08-01T16:44:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55745" started-at="2020-08-01T16:43:54Z" finished-at="2020-08-01T16:44:50Z">
+      <class name="quick.Table.CricketTest">
+        <test-method status="PASS" signature="cric()[pri:0, instance:quick.Table.CricketTest@7364985f]" name="cric" duration-ms="55588" started-at="2020-08-01T22:13:54Z" finished-at="2020-08-01T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cric -->
+      </class> <!-- quick.Table.CricketTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
